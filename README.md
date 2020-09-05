@@ -11,6 +11,7 @@
 ### 📚 Tech Skills
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat&logo=Spring)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)
